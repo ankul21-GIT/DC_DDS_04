@@ -6,3 +6,5 @@ seaborn
 openpyxl
 plotly
 nbformat
+requests
+beautifulsoup4
