@@ -8,3 +8,4 @@ plotly
 nbformat
 requests
 beautifulsoup4
+flask
