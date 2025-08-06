@@ -10,7 +10,7 @@ app=Flask(__name__)
 def welcome():
     return "<html><H1>Welcome to the flask course</H1></html>"
 
-@app.route("/index",methods=['GET'])
+@app.route("/index", methods=["GET"])
 def index():
     return render_template('index.html')
 
