@@ -18,13 +18,15 @@ Data is stored in a specific format, often in tables with rows and columns, maki
 
 Question) What is a Database Management System (DBMS)?
 
-A Database Management System (DBMS) is software that allows users to create, manage, and interact with databases. It acts as an intermediary between the user and the database, enabling users to easily retrieve, insert, update, and delete data while ensuring that the data is secure and consistent.
+A Database Management System (DBMS) is software that allows users to create, manage, and interact with databases. 
+It acts as an intermediary between the user and the database, enabling users to easily retrieve, insert, update, and delete data while ensuring that the data is secure and consistent.
 
 ---------------------------------------------------------------------------------------
 
-Question) What is Relational Database Management System (DBMS)?
+Question) What is Relational Database Management System (RDBMS)?
 
-RDBMS stands for Relational Database Management System. It is a type of database management system (DBMS) that stores data in a structured format, using rows and columns, which are organized into tables. The key feature of an RDBMS is that it uses relationships (or links) between tables to manage and query data efficiently.
+RDBMS stands for Relational Database Management System. It is a type of database management system (DBMS) that stores data in a structured format, 
+using rows and columns, which are organized into tables. The key feature of an RDBMS is that it uses relationships (or links) between tables to manage and query data efficiently.
 
 Here are some key points about RDBMS:
 
