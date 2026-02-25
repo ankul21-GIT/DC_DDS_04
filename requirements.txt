@@ -1,0 +1,140 @@
+# ----------------------------
+# CORE PYTHON UTILITIES
+# ----------------------------
+pip>=24.0
+setuptools>=70.0
+wheel
+
+# ----------------------------
+# DATA ANALYSIS (DA)
+# ----------------------------
+numpy>=1.26
+pandas>=2.2
+scipy>=1.12
+openpyxl
+xlrd
+pyarrow
+polars
+sqlalchemy
+psycopg2-binary
+pymysql
+
+# ----------------------------
+# DATA VISUALIZATION
+# ----------------------------
+matplotlib>=3.8
+seaborn>=0.13
+plotly
+bokeh
+altair
+
+# ----------------------------
+# STATISTICS & EDA
+# ----------------------------
+statsmodels
+scikit-posthocs
+
+# ----------------------------
+# MACHINE LEARNING (ML)
+# ----------------------------
+scikit-learn>=1.4
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+joblib
+
+# ----------------------------
+# DEEP LEARNING (DL)
+# ----------------------------
+torch
+torchvision
+torchaudio
+tensorflow
+keras
+
+# ----------------------------
+# NLP & GENAI
+# ----------------------------
+transformers
+datasets
+tokenizers
+sentencepiece
+accelerate
+huggingface-hub
+
+# ----------------------------
+# LLM / AGENTIC AI
+# ----------------------------
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+llama-index
+chromadb
+faiss-cpu
+
+# ----------------------------
+# VECTOR DATABASES
+# ----------------------------
+qdrant-client
+pinecone-client
+
+# ----------------------------
+# JUPYTER & NOTEBOOKS
+# ----------------------------
+jupyterlab
+notebook
+ipykernel
+ipywidgets
+nbformat
+
+# ----------------------------
+# MLOPS / EXPERIMENT TRACKING
+# ----------------------------
+mlflow
+optuna
+dvc
+
+# ----------------------------
+# API / APP DEV (DS → PROD)
+# ----------------------------
+fastapi
+uvicorn
+pydantic
+streamlit
+gradio
+
+# ----------------------------
+# CLOUD / DEVOPS
+# ----------------------------
+boto3
+google-cloud-storage
+azure-storage-blob
+docker
+
+# ----------------------------
+# TESTING & CODE QUALITY
+# ----------------------------
+pytest
+black
+isort
+flake8
+mypy
+
+# ----------------------------
+# SECURITY / AI SAFETY (FOUNDATION)
+# ----------------------------
+cryptography
+python-dotenv
+requests
+httpx
+bandit
+
+# ----------------------------
+# MISC / UTILITIES
+# ----------------------------
+tqdm
+rich
+loguru
+python-dateutil
